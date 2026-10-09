@@ -47,7 +47,7 @@ verification-report.md — звіт для викладача: джерела, �
   "work": "Соната № 9 E-dur, op. 14 № 1",
   "part": "III частина, Rondo. Allegro comodo",
   "bars": "тт. 1–8",
-  "edition": "Durand, 1915 (ред. П. Дюка)",
+  "edition": "Breitkopf & Härtel, «Beethovens Werke», Serie 16",
   "imslp": "https://imslp.org/wiki/…",
   "analysis": "Текст аналізу",
   "ruler": { "start": 1, "groups": [ { "len": 4, "label": "4" }, { "len": 2, "label": "2" } ] },

@@ -129,7 +129,7 @@
       "work": "Соната № 16 G-dur, op. 31 № 1",
       "part": "III частина, Rondo, рефрен",
       "bars": "тт. 1–16",
-      "edition": "Breitkopf & Härtel, «Beethovens Werke», Serie 16 — є на сторінці IMSLP (такти звірено за виданням Durand, 1915, ред. П. Дюка; нумерація та сама)",
+      "edition": "Breitkopf & Härtel, «Beethovens Werke», Serie 16",
       "imslp": "https://imslp.org/wiki/Piano_Sonata_No.16,_Op.31_No.1_(Beethoven,_Ludwig_van)",
       "analysis": "Перша частина — тт. 1–8: речення a, повторене (a a), напівкаденція на домінанті в т. 4 і каденція G-dur у т. 8. Друга частина — тт. 9–16: нова пара b b, каденція G-dur у т. 16. Кожна з двох частин має форму квадратного періоду повторної будови.",
       "ruler": {
@@ -191,7 +191,7 @@
       "work": "Соната № 32 c-moll, op. 111",
       "part": "II частина, тема Arietta",
       "bars": "тт. 1–18 (нумерація цифрового видання, вольти рахуються окремо)",
-      "edition": "Breitkopf & Härtel, «Beethovens Werke», Serie 16 — є на сторінці IMSLP (такти звірено за виданням Durand, 1915, ред. П. Дюка; нумерація та сама)",
+      "edition": "Breitkopf & Härtel, «Beethovens Werke», Serie 16",
       "imslp": "https://imslp.org/wiki/Piano_Sonata_No.32,_Op.111_(Beethoven,_Ludwig_van)",
       "analysis": "Перша частина: 8 тактів із повторенням (4 + 4), каденція C-dur. Друга частина: 8 тактів із повторенням. Перші чотири — a-moll (зупинка на E, ладовий контраст — «третя чверть»), другі чотири — акорди в C-dur з crescendo і каденцією C: тональна реприза на матеріалі акордового, «хорового» складу. У друкованих виданнях номери тактів можуть бути іншими.",
       "ruler": {
@@ -249,7 +249,7 @@
       "work": "Соната № 1 f-moll, op. 2 № 1",
       "part": "III частина, Menuetto (до тріо)",
       "bars": "тт. 1–40",
-      "edition": "Breitkopf & Härtel, «Beethovens Werke», Serie 16 — є на сторінці IMSLP (такти звірено за виданням Durand, 1915, ред. П. Дюка; нумерація та сама)",
+      "edition": "Breitkopf & Härtel, «Beethovens Werke», Serie 16",
       "imslp": "https://imslp.org/wiki/Piano_Sonata_No.1,_Op.2_No.1_(Beethoven,_Ludwig_van)",
       "analysis": "A: тт. 1–14 — модулюючий період f → As, знак повторення. Середина: тт. 15–28 — розвиток мотивів; тт. 25–28 (ff, рух восьмими над домінантою) — предикт. Реприза з т. 29: тема в лівій руці (затакт у т. 28) з sf-акцентами над нею; закінчення f-moll у т. 40, знак повторення. Способин прямо називає цей Менует тричастинною формою, хоча реприза (12 тактів) коротша за першу частину (14).",
       "ruler": {
@@ -402,7 +402,7 @@
       "work": "Соната № 4 Es-dur, op. 7",
       "part": "III частина, Allegro (до Minore)",
       "bars": "тт. 1–95",
-      "edition": "Breitkopf & Härtel, «Beethovens Werke», Serie 16 — є на сторінці IMSLP (такти звірено за виданням Durand, 1915, ред. П. Дюка; нумерація та сама)",
+      "edition": "Breitkopf & Härtel, «Beethovens Werke», Serie 16",
       "imslp": "https://imslp.org/wiki/Piano_Sonata_No.4,_Op.7_(Beethoven,_Ludwig_van)",
       "analysis": "A: тт. 1–24, знак повторення. Середина: тт. 25–42. Реприза з т. 43 (= т. 1, dolce): перше речення — тт. 43–50 (8 тактів, закінчення на Es, як у т. 8), друге — тт. 51–86 (36 тактів: As-dur, ges- і ces-гармонії, ff у т. 79, каденція Es у т. 86). Тт. 87–95 — доповнення на тонічному органному пункті.",
       "ruler": {
@@ -602,7 +602,7 @@
     {
       "id": "t3",
       "type": "bars",
-      "q": "Бетховен, Соната op. 2 № 1, III ч., Менует (Durand, 1915).",
+      "q": "Бетховен, Соната op. 2 № 1, III ч., Менует (Breitkopf & Härtel, Serie 16).",
       "fields": [
         {
           "label": "Середина починається в такті",
@@ -705,7 +705,7 @@
     {
       "id": "t9",
       "type": "bars",
-      "q": "Бетховен, Соната op. 7, III ч. (Durand, 1915).",
+      "q": "Бетховен, Соната op. 7, III ч. (Breitkopf & Härtel, Serie 16).",
       "fields": [
         {
           "label": "Реприза починається в такті",

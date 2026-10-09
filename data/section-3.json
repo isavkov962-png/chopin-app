@@ -112,7 +112,7 @@
       "work": "Соната № 11 B-dur, op. 22",
       "part": "II частина, Adagio con molta espressione (Es-dur)",
       "bars": "тт. 31–47",
-      "edition": "Breitkopf & Härtel, «Beethovens Werke», Serie 16 — є на сторінці IMSLP (такти звірено за виданням Durand, 1915, ред. П. Дюка; нумерація та сама)",
+      "edition": "Breitkopf & Härtel, «Beethovens Werke», Serie 16",
       "imslp": "https://imslp.org/wiki/Piano_Sonata_No.11,_Op.22_(Beethoven,_Ludwig_van)",
       "analysis": "Розробка — з т. 31 (pp): короткі елементи теми, секвенції, модуляції, sf-акценти (тт. 34–38), секвенційні шістнадцяті (тт. 39–42). Предикт — тт. 43–45: органний пункт на B (домінанта Es-dur) з cresc. Зв'язка — т. 46: одноголосий пасаж pp без супроводу. Реприза — з т. 47: тема в Es-dur з початковою фактурою супроводу.",
       "ruler": {
@@ -145,7 +145,7 @@
       "work": "Соната № 8 c-moll, op. 13 («Патетична»)",
       "part": "III частина, Rondo. Allegro",
       "bars": "тт. 1–17",
-      "edition": "Breitkopf & Härtel, «Beethovens Werke», Serie 16 — є на сторінці IMSLP (такти звірено за виданням Durand, 1915, ред. П. Дюка; нумерація та сама)",
+      "edition": "Breitkopf & Härtel, «Beethovens Werke», Serie 16",
       "imslp": "https://imslp.org/wiki/Piano_Sonata_No.8,_Op.13_(Beethoven,_Ludwig_van)",
       "analysis": "Тема — тт. 1–8 (каденція c-moll у т. 8). Доповнення — тт. 9–17: повторення другого речення і нове продовження; місцеві вершини піднімаються від es² до c³, каденція в т. 17.",
       "ruler": {
@@ -170,7 +170,7 @@
       "work": "Соната № 5 c-moll, op. 10 № 1",
       "part": "I частина, Allegro molto e con brio",
       "bars": "тт. 22–31",
-      "edition": "Breitkopf & Härtel, «Beethovens Werke», Serie 16 — є на сторінці IMSLP (такти звірено за виданням Durand, 1915, ред. П. Дюка; нумерація та сама)",
+      "edition": "Breitkopf & Härtel, «Beethovens Werke», Serie 16",
       "imslp": "https://imslp.org/wiki/Piano_Sonata_No.5,_Op.10_No.1_(Beethoven,_Ludwig_van)",
       "analysis": "Т. 22 — повернення початкового мотиву (f); тт. 28–30 — акорди ff; т. 31 — генеральна пауза. Доповнення стає кульмінаційною зоною головної партії.",
       "ruler": {
@@ -199,7 +199,7 @@
       "work": "Соната № 14 cis-moll, op. 27 № 2 («Місячна»)",
       "part": "III частина, Presto agitato",
       "bars": "тт. 9–14",
-      "edition": "Breitkopf & Härtel, «Beethovens Werke», Serie 16 — є на сторінці IMSLP (такти звірено за виданням Durand, 1915, ред. П. Дюка; нумерація та сама)",
+      "edition": "Breitkopf & Härtel, «Beethovens Werke», Serie 16",
       "imslp": "https://imslp.org/wiki/Piano_Sonata_No.14,_Op.27_No.2_(Beethoven,_Ludwig_van)",
       "analysis": "Після напівкаденції — тт. 9–13: фігурація на органному пункті gis; т. 14 — sf і фермата на gis (домінанта cis-moll).",
       "ruler": {
@@ -400,7 +400,7 @@
     {
       "id": "t4",
       "type": "bars",
-      "q": "Бетховен, Соната op. 22, II ч. (Durand, 1915).",
+      "q": "Бетховен, Соната op. 22, II ч. (Breitkopf & Härtel, Serie 16).",
       "fields": [
         {
           "label": "Предикт (органний пункт на B) починається в такті",
@@ -433,7 +433,7 @@
     {
       "id": "t6",
       "type": "bars",
-      "q": "Бетховен, «Патетична», III ч. (Durand, 1915). Тема і доповнення.",
+      "q": "Бетховен, «Патетична», III ч. (Breitkopf & Härtel, Serie 16). Тема і доповнення.",
       "fields": [
         {
           "label": "Тема закінчується каденцією в такті",
