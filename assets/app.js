@@ -207,11 +207,11 @@
         t.motto ? h("p", { class: "motto", text: t.motto }) : null,
         t.scheme ? h("span", { class: "scheme", text: "Схема: " + t.scheme }) : null);
       if (t.source) block.appendChild(h("span", { class: "src", text: t.source }));
+      if (t.steps) block.appendChild(h("ol", { class: "steps" }, t.steps.map(function (p) { return h("li", { text: p }); })));
       if (t.points) {
         block.appendChild(h("ul", { class: "points" }, t.points.map(function (p) { return h("li", { text: p }); })));
         if (t.pointsSource) block.appendChild(h("span", { class: "src", text: t.pointsSource }));
       }
-      if (t.steps) block.appendChild(h("ol", { class: "steps" }, t.steps.map(function (p) { return h("li", { text: p }); })));
       if (t.table) {
         block.appendChild(h("dl", { class: "deflist" }, t.table.map(function (r) {
           return h("div", null,
