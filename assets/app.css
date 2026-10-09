@@ -120,6 +120,9 @@ h2.view-title { font: 400 clamp(1.6rem, 5vw, 2.1rem)/1.15 var(--display); margin
 .ex .meta { display: flex; flex-wrap: wrap; gap: var(--s1) var(--s4); font-size: 0.88rem; color: var(--muted); }
 .ex .meta b { color: var(--ink); font-weight: 500; }
 .ex p { margin: 0; max-width: 65ch; }
+.ex-fig { margin: 0; display: grid; gap: var(--s1); }
+.ex-fig img { display: block; width: 100%; height: auto; border: 1px solid var(--rule); border-radius: 4px; background: #fff; }
+.ex-fig figcaption { font-size: 0.8rem; color: var(--muted); }
 .ex-foot { display: flex; flex-wrap: wrap; justify-content: space-between; gap: var(--s2) var(--s4); align-items: baseline; }
 .imslp { font: 500 0.85rem var(--mono); }
 

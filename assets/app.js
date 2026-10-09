@@ -263,11 +263,16 @@
           h("span", null, h("b", { text: e.part })),
           h("span", null, "Такти: ", h("b", { text: e.bars })),
           h("span", null, "Видання: ", h("b", { text: e.edition }))),
+        e.image ? h("figure", { class: "ex-fig" },
+          h("a", { href: e.image.src, target: "_blank", rel: "noopener" }, h("img", { src: e.image.src, alt: e.image.alt, loading: "lazy" })),
+          e.image.caption ? h("figcaption", { text: e.image.caption }) : null) : null,
         e.ruler ? ruler(e.ruler) : null,
         h("p", { text: e.analysis }),
+        e.extra ? h("ul", { class: "points" }, e.extra.map(function (x) { return h("li", { text: x }); })) : null,
+        e.extraSource ? h("span", { class: "src", text: e.extraSource }) : null,
         h("div", { class: "ex-foot" },
           h("span", { class: "src", text: e.source }),
-          h("a", { class: "imslp", href: e.imslp, target: "_blank", rel: "noopener" }, "Ноти в IMSLP ↗"))));
+          e.imslp ? h("a", { class: "imslp", href: e.imslp, target: "_blank", rel: "noopener" }, "Ноти в IMSLP ↗") : null)));
     });
     return wrap;
   }
