@@ -27,7 +27,8 @@
       "id": "s4",
       "n": 4,
       "title": "Прості форми",
-      "ready": false
+      "ready": true,
+      "file": "data/section-4.json"
     },
     {
       "id": "s5",
