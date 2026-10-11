@@ -34,7 +34,8 @@
       "id": "s5",
       "n": 5,
       "title": "Складні форми",
-      "ready": false
+      "ready": true,
+      "file": "data/section-5.json"
     },
     {
       "id": "s6",
