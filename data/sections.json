@@ -41,7 +41,8 @@
       "id": "s6",
       "n": 6,
       "title": "Варіації",
-      "ready": false
+      "ready": true,
+      "file": "data/section-6.json"
     },
     {
       "id": "s7",
