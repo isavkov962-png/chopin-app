@@ -48,7 +48,8 @@
       "id": "s7",
       "n": 7,
       "title": "Рондо",
-      "ready": false
+      "ready": true,
+      "file": "data/section-7.json"
     },
     {
       "id": "s8",
