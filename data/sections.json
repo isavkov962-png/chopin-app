@@ -55,7 +55,8 @@
       "id": "s8",
       "n": 8,
       "title": "Старовинні форми",
-      "ready": false
+      "ready": true,
+      "file": "data/section-8.json"
     },
     {
       "id": "s9",
