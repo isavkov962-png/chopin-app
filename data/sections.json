@@ -62,7 +62,8 @@
       "id": "s9",
       "n": 9,
       "title": "Сонатна форма та її різновиди",
-      "ready": false
+      "file": "data/section-9.json",
+      "ready": true
     },
     {
       "id": "s10",
