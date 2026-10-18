@@ -69,7 +69,8 @@
       "id": "s10",
       "n": 10,
       "title": "Поліфонічні форми",
-      "ready": false
+      "ready": true,
+      "file": "data/section-10.json"
     },
     {
       "id": "s11",
