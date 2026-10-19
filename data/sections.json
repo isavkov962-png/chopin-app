@@ -76,7 +76,8 @@
       "id": "s11",
       "n": 11,
       "title": "Циклічні форми",
-      "ready": false
+      "file": "data/section-11.json",
+      "ready": true
     },
     {
       "id": "s12",
