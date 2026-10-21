@@ -83,7 +83,8 @@
       "id": "s12",
       "n": 12,
       "title": "Вільні та змішані форми",
-      "ready": false
+      "ready": true,
+      "file": "data/section-12.json"
     },
     {
       "id": "s13",
