@@ -90,7 +90,8 @@
       "id": "s13",
       "n": 13,
       "title": "Методи та принципи розвитку",
-      "ready": false
+      "ready": true,
+      "file": "data/section-13.json"
     }
   ],
   "sources": {
